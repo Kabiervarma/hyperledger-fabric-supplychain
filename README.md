@@ -20,5 +20,5 @@ It records product creation, shipment transfers, and receipts between **Manufact
 ### 2. Network Setup
 Clone this repository and navigate to the `network` folder:
 ```bash
-git clone https://github.com/<your-username>/hyperledger-fabric-supplychain.git
+git clone https://github.com/<Kabiervarma>/hyperledger-fabric-supplychain.git
 cd hyperledger-fabric-supplychain/network
